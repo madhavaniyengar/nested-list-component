@@ -1,10 +1,10 @@
 # nested-list-component
 
 ## Installation
-In your react project, run the command npm -i nested-list-component [note this is TBD]
+In your react project, run the command npm i @miyen/react-nested-list
 
 ## Importing into your project
-Once you have installed the package, write the line 'import Nested from 'nested-list-component'' at the top of your .js file. 
+Once you have installed the package, write the line "import Nested from '@miyen/react-nested-list'" at the top of your .js file. 
 Now you can use the nested component as if it's any other component.
 
 ## Actually using it
